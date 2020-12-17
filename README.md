@@ -1,1 +1,1 @@
-# This folder contains all Machine Learning related projects
+# This repository contains all Machine Learning related projects
