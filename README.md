@@ -10,15 +10,18 @@ In this repository, I've touched upon most of the basic concepts one should know
 
 Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.
 
+
 **Why is Machine Learning Important** ?
 
 Data is the lifeblood of all business. Data-driven decisions increasingly make the difference between keeping up with competition or falling further behind. Machine learning can be the key to unlocking the value of corporate and customer data and enacting decisions that keep a company ahead of the competition.
+
 
 **Steps in Machine Learning**:
 
 1. Algorithm at the core which makes predictions.
 2. Dataset containing Variables & Features on which decision is made.
 3. Base knowledge for which the answer is known that enables (trains) the system to learn.
+
 
 The Machine Learning Projects in the repository are:
 
