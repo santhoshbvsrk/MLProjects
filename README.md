@@ -25,4 +25,5 @@ Data is the lifeblood of all business. Data-driven decisions increasingly make t
 
 The Machine Learning Projects in the repository are:
 
-1. [Avocado Machine Learning - Linear Regression Project](https://github.com/santhoshbvsrk/Machine-Learning-Projects/blob/main/Avocado-Machine-Learning-Project/Avocado.ipynb)![enter image description here](https://miro.medium.com/max/1125/0*hy3y0fn3nRtdlszI)
+1. [Avocado Machine Learning - Linear Regression Project](https://github.com/santhoshbvsrk/Machine-Learning-Projects/tree/main/Avocado-Machine-Learning-Project)
+![enter image description here](https://miro.medium.com/max/1125/0*hy3y0fn3nRtdlszI)
